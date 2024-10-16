@@ -1,2 +1,1 @@
-console.log("Hello TKUIM！");ls
-
+console.log("Hello TKUIM！"); 
